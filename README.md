@@ -14,15 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://komarev.com/ghpvc/?username=victorb999&color=blue" alt="victorb999" />  
+ 
+
 <div> 
+  <a href="https://victoraraujo.com.br"><img height="40em" src="https://www.victoraraujo.com.br/_next/image?url=%2Fimg%2Flogo.svg&w=96&q=75" alt="site"/></a> 
   <a href="https://www.linkedin.com/in/victorb-araujo/">
-    <img height="30em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin>
+    <img height="25em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a> 
-  <a href="https://victoraraujo.com.br">
-    <img height="40em" src="https://www.victoraraujo.com.br/_next/image?url=%2Fimg%2Flogo.svg&w=96&q=75" alt="site">
-  </a> 
+  <a href="https://www.behance.net/victorAraujoDesign">
+    <img height="25em" src="https://img.shields.io/badge/-BEHANCE-%230077B5?style=for-the-badge&logo=behance&logoColor=white" alt="linkedin" />
+  </a>
+ 
 </div>
+                                                                                                                                     
 <br />
 
 <p>🔭 Atualmente estou trabalhando com vue e php</p>
