@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=victorb999&color=blue" alt="victorb999" />  
 <div> 
   <a href="https://www.linkedin.com/in/victorb-araujo/">
-    <img height="30em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img height="30em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin>
   </a> 
   <a href="https://victoraraujo.com.br">
-    <img height="40em" src="https://www.victoraraujo.com.br/_next/image?url=%2Fimg%2Flogo.svg&w=96&q=75">
+    <img height="40em" src="https://www.victoraraujo.com.br/_next/image?url=%2Fimg%2Flogo.svg&w=96&q=75" alt="site">
   </a> 
 </div>
 <br />
