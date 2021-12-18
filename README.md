@@ -29,7 +29,7 @@ Here are some ideas to get you started:
                                                                                                                                      
 <br />
 
-<p>🔭 Atualmente estou trabalhando com vue e php</p>
+<p>🔭 Atualmente estou trabalhando com react e php</p>
 <p>🌱 Atualmente estou aprendendo react/next e vue3</p>
 
 <div>
